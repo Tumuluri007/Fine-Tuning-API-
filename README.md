@@ -35,3 +35,7 @@ Requires an OpenAI API key (not included in the repository)
 Fine-tuning costs may apply (refer to OpenAI's pricing)
 The repository includes both data preparation and model fine-tuning scripts
 This project serves as a comprehensive example of fine-tuning language models for character emulation, demonstrating the entire process from data preparation to model evaluation. 
+
+
+OPEN AI PLAYGROUND LINK: 
+https://platform.openai.com/playground/chat?models=gpt-3.5-turbo-1106 
